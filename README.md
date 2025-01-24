@@ -16,5 +16,6 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinav-P-G)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhinav-P-G&theme=dark&hide_border=true&ring=FB4362&currStreakNum=FB4362&currStreakLabel=FB4362" alt="GitHub Streak" /></a>
+
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-P-G&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
